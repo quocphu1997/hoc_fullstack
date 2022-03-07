@@ -1,0 +1,102 @@
+/* css id */
+#tdKFC{
+    background-color: rgb(248, 28, 28);
+    color: aliceblue;
+}
+#tdGt{
+    font-size: 41px;
+    color: white;
+    /* background-color: rgb(180, 33, 33); */
+    text-align: center;
+    /* text-transform: uppercase; */
+}
+#ul1{
+    font-size: 25px;
+}
+#tdTable1{
+    text-align: center;
+    font-size: 30px;
+}
+#tdGioithieu{
+    font-size: 41px;
+    color: white;
+    /* background-color: rgb(180, 33, 33); */
+    text-align: center;
+    text-transform: uppercase;
+}
+#ttuc_gt{
+    color: darkred;
+    font-size: 40px;
+    text-align: center;
+}
+#ttuc_anh{
+    width: 100%;
+    
+}
+
+/* css id-END */
+/* <==={}========================================> */
+/* <======================================={}====> */
+/* css class */
+.menu1{
+    color: blue;
+    font-size: 20px;
+}
+.div1 {
+    background-color: rgb(180, 33, 33);
+    font-size: 30px;
+    text-align: justify;
+    color: white;
+}
+.ttuc_p{
+    font-size: 20px;
+}
+.ttuc_li{
+    font-size: 20px;
+}
+/* css class END */
+/* <==={}========================================> */
+/* <======================================={}====> */
+/* css picture */
+#pic1{
+    width: 50%;
+}
+#pic2{
+    width: 50%;
+}
+#idlogo{
+    width: 11%;
+}
+/* css picture END */
+/* <==={}========================================> */
+/* <======================================={}====> */
+/* css table */
+#tb1{
+    margin-inline-end:auto;
+    margin-inline-start:auto;
+}
+#c_col1{
+    width: 480px;
+    height: 55px; 
+}
+#c_col2{
+    width: 200px;
+}
+#c_col3{
+    width: 200px;
+}
+.c_row1{
+    height: 57px;
+    color: white;
+    text-align: center;
+}
+.c_row2{
+    height: 57px;
+    /* color: aliceblue; */
+    text-align: center;
+}
+.c_row3{
+    height: 57px;
+    color: rgb(243, 239, 239);
+    text-align: center;
+}

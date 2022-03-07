@@ -1,0 +1,33 @@
+.demo{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    text-align: center;
+}
+.name{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.text-upper{
+    text-transform: uppercase;
+}
+
+#myid{
+    background-color: aquamarine;
+    color: black;
+    text-align: right;
+}
+#myid1{
+    background-color: blueviolet;
+    color: black;
+    text-align: right;
+}
+p{
+    font-size: 50px; /* định dạng cho tất cả các thẻ p*/
+}
+/* #myid1 p{
+    font-size: 100px;
+} */
+#myid1 >p{
+    font-size: 100px;
+}

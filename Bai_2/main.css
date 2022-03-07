@@ -1,0 +1,27 @@
+/* ví dụ css External */
+h1 {
+  color: rgb(252, 143, 0);
+  font-size: 80px;
+}
+/* ví dụ về id và class */
+/* ví dụ id  sử dụng dấu "#"*/
+#first-heading {
+  color: aquamarine;
+}
+/* ví dụ về class sử dụng dấu "."*/
+.second-heading {
+  color: rgb(255, 0, 157);
+  font-size: 65px;
+}
+/* .box {
+  color: red; đúng bt 13 F8
+} */
+/* div > .box {
+  color: blue; đúng bt 13 f8
+} */
+/* .container > .box {
+  color: yellow; sai bt13 f8
+} */
+.container div div {
+   color: cornflowerblue; /*đúng bt13 f8 */
+}
